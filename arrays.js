@@ -20,3 +20,4 @@ function accessElementInArray(array, index) {
   var num = array[index];
   return num
 }
+function 
